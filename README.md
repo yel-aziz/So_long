@@ -14,3 +14,7 @@ You need to compile source files with make for mandatory part and make bonus for
 To launch the game, execute ./so_long with a map as argument:
 ./so_long maps/*.ber U free to make your own map ;).
 PREVIEW
+
+<img width="1703" alt="Screen Shot 2022-02-13 at 7 01 03 PM" src="https://user-images.githubusercontent.com/88348802/153768238-67860978-0b4d-4661-8426-b6a36b61ae48.png">
+
+<img width="1708" alt="Screen Shot 2022-02-13 at 7 01 31 PM" src="https://user-images.githubusercontent.com/88348802/153768247-ee7f9758-a6a4-4283-bfd6-56d6fc7821c8.png">
